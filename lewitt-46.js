@@ -1,6 +1,7 @@
 function setup() { 
   c = randomGreyScale();
-  
+  createCanvas(1600, 400);
+
   var n = 80;
   var startX = 0;
   var startY = 0;
