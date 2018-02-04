@@ -2,7 +2,6 @@ function drawPixel(x, y, n) {
   rect(x, y, n, n);
 }
 
-
 function yourPatch(x, y) {
   noStroke();
   fill(0, 50, 98);
